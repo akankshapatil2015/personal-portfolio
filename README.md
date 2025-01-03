@@ -53,3 +53,11 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ## **Run the Project**
 ```bash
 npm install
+```
+
+---
+
+### **📸 Screenshots**
+![image](https://github.com/user-attachments/assets/7ccbe7a4-e4ad-4cf0-93c0-28ccff02ce77)
+
+
