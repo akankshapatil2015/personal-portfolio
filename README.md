@@ -48,12 +48,15 @@ npm install
 
 ---
 
-### **🤝 Contributions**
-Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements.
+
 ## **Run the Project**
 ```bash
-npm start
+npm install
 ```
+---
+
+### **🤝 Contributions**
+Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements.
 
 ---
 
